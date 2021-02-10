@@ -8,4 +8,5 @@ chrome browser extension
 5. navigate to file path of cloned repo -> select cloned repo folder
 6. (optional) Modify files inside repo for your own personalized chrome extension
 
-note: Currently code is set up tocount number of times 'cage' is mentioned on web page
+Note 1: Currently code is set up tocount number of times 'cage' is mentioned on web page
+Note 2: special thanks/credit/shoutout for the underlying code used: Kyle Robinson Young
