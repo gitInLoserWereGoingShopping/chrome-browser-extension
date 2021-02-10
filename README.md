@@ -1,11 +1,11 @@
 # chrome-browser-extension
 chrome browser extension
 
-clone repo
-go to CHROME://extensions in chrome browser
-  developer mode on (top right)
-  load unpacked button
-    select cloned repo folder
-Modify files inside repo for personalized chrome extension
+1. clone repo
+2. go to CHROME://extensions in chrome browser
+3. enable developer mode on (top right)
+4. click on load unpacked button
+5. navigate to file path of cloned repo -> select cloned repo folder
+6. (optional) Modify files inside repo for your own personalized chrome extension
 
-Currently code is set up tocount number of times 'cage' is mentioned on web page
+note: Currently code is set up tocount number of times 'cage' is mentioned on web page
