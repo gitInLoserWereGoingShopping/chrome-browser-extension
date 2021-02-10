@@ -9,4 +9,5 @@ chrome browser extension
 6. (optional) Modify files inside repo for your own personalized chrome extension
 
 Note 1: Currently code is set up tocount number of times 'cage' is mentioned on web page
+
 Note 2: special thanks/credit/shoutout for the underlying code used: Kyle Robinson Young
